@@ -4,7 +4,7 @@
 
 A simple Bash script that provides an interactive control center for system tasks see [features](#features) for more information.
 ## 📷 Showcase
-![design.png](Screenshots/design.png)
+![design.png](screenshots/design.png)
 ___
 
 ## 🔧 Setup
